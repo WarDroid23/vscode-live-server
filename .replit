@@ -1,4 +1,4 @@
-modules = ["nodejs-20", "web"]
+modules = ["nodejs-20", "web", "dotnet-7.0", "angular-node-20", "bash", "bun-1.1", "bun-1.0", "c-clang14", "cpp-clang14", "clojure-1.11", "dart-3.4", "dart-3.3", "dart-3.2", "dart-2.18", "deno-1", "elixir-1_15", "elixir-1_16", "go-1.21", "go-1.20", "go-1.19", "gcloud", "haskell-ghc9.6", "haskell-ghc9.2", "haskell-ghc9.4", "haskell-ghc9.0", "hermit-0.38.2", "java-graalvm22.3", "lua-5.2", "nix", "nodejs-19", "nodejs-18", "nodejs-16", "nodejs-14", "r-4.3", "r-4.2", "replit-rtld-loader", "ruby-3.1", "python-3.11", "python-3.10", "qbasic", "python-3.12", "python-3.8", "python-3.9", "php-8.1", "php-8.2"]
 run = "npm run watch"
 
 [nix]
