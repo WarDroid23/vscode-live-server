@@ -1,5 +1,36 @@
 {pkgs}: {
   deps = [
+    pkgs.haskellPackages.net-mqtt
+    pkgs.gnomeExtensions.argos
+    pkgs.haskellPackages.audiovisual
+    pkgs.python311Packages.autopage
+    pkgs.abcmidi
+    pkgs.amdgpu_top
+    pkgs.python312Packages.auditok
+    pkgs.python312Packages.aiosenz
+    pkgs.atanks
+    pkgs.haskellPackages.avro-piper
+    pkgs.haskellPackages.aos-signature
+    pkgs.python311Packages.avro
+    pkgs.adoptopenjdk-jre-openj9-bin-11
+    pkgs.ocamlPackages.async_kernel
+    pkgs.haskellPackages.aws
+    pkgs.python311Packages.amply
+    pkgs.haskellPackages.amazonka-network-firewall
+    pkgs.vimPlugins.auto-save-nvim
+    pkgs.asterisk_20
+    pkgs.arpa2cm
+    pkgs.haskellPackages.adjunction
+    pkgs.python312Packages.aiodiscover
+    pkgs.amazon-ec2-utils
+    pkgs.haskellPackages.amazonka-appmesh
+    pkgs.python311Packages.altair
+    pkgs.ocamlPackages.alcotest-mirage
+    pkgs.arduino
+    pkgs.haskellPackages.aws-sdk-xml-unordered
+    pkgs.arcanist
+    pkgs.emacsPackages.ansible-vault
+    pkgs.emacsPackages.a
     pkgs.postgresql
   ];
 }
