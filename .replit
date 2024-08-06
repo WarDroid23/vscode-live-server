@@ -8,4 +8,4 @@ channel = "stable-24_05"
 run = ["sh", "-c", "npm run watch"]
 
 [objectStorage]
-defaultBucketID = "replit-objstore-46cfa4d9-02a1-4858-be01-41535c60b094"
+defaultBucketID = "replit-objstore-1bb06de6-0287-418c-989b-49d40907d7b2"
