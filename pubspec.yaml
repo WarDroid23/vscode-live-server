@@ -1,0 +1,5 @@
+name: MyApp
+description: ""
+dependencies:
+  '@replit/object-storage': null
+dev_dependencies: {}
